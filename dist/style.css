@@ -1,0 +1,32 @@
+body, p { 
+    font-family: monospace;
+	color: green;
+	background-color: black;
+	font-size: 16px;
+}
+
+del {
+	text-decoration: line-through;
+}
+
+img {
+	display: block;
+	border: medium solid green;
+	padding: 0.25em;
+}
+
+.navbar {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+.navbar-title {
+	display: inline;
+}
+
+.navbar-item {
+	display: inline;
+	border-top: thick solid green;
+	margin: 0.25em;
+}
